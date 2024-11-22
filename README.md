@@ -55,3 +55,18 @@ Improved layout and spacing on claim submission form.
 
 Linked claim submissions from the Lecturer Dashboard to the Claims History page.
 Improved data binding between pages to display up-to-date claim statuses.
+
+
+Programming POE: Final Part
+
+This is the final part of the POE where we improved it one more time in order for it to meet the final standards.
+
+Things we've added to the POE:
+* Automation for final payment based on the hours worked and hourly rate.
+* System to check claims against predefined criteria.
+* Automaticall generate invoices or reports
+
+Others things that were added to the POE:
+* Video
+* PowerPoint Presentation
+* Updated Report
